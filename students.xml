@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This XML document describes a student directory -->
+<directory>
+   <student id="1">
+        <name>Mick Wastley</name>
+        <level>Graduate</level>
+        <major>Computer Science</major>
+   </student>
+   <student id="2">
+        <name>Jane Donson</name>
+        <level>Undergraduate</level>
+        <major>Biology</major>
+   </student>
+   <student id="3">
+        <name>Ronald Frump</name>
+        <level>Undergraduate</level>
+        <major>Filmmaking</major>
+   </student>
+   <student id="4">
+        <name>Holt Switzer</name>
+        <level>Graduate</level>
+        <major>Journalism</major>
+   </student>
+   <student id="5">
+        <name>Newman Habrowski</name>
+        <level>Graduate</level>
+        <major>Business</major>
+   </student>
+</directory>
